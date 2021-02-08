@@ -1,6 +1,15 @@
 ﻿namespace Chess
 {
-    public class ChessTable
+    public interface IChessTable
+    {
+        int GetColumnLimit();
+        int GetRowLimit();
+        bool IsValidPosition(int positionX, int positionY);
+        void PutChessman(Chessman chessman, int positionX, int positionY);
+        Square GetSquare(int posX, int posY);
+    }
+
+    public class ChessTable : IChessTable
     {
         private Square[,] _chessTable;
         private  int _columnLimit;

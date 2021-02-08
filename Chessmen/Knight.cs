@@ -4,7 +4,7 @@ namespace Chess
     {
         public Knight()
         {
-            
+            myMoves = new KnightMovement();
         }
     }
 }
