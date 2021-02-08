@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{224F7AC3-899A-40AE-A1FA-A12E42418A9C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChessTable.cs">
+    <Files>
+      <File FileName="KingMovement.cs" Line="9" Column="45" />
+      <File FileName="ChessMovement.cs" Line="1" Column="1" />
+      <File FileName="BasicMoves/BasicMove.cs" Line="8" Column="18" />
+      <File FileName="BasicMoves/MoveForward.cs" Line="1" Column="1" />
+      <File FileName="ChessTable.cs" Line="19" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Chess" expanded="True">
+            <Node name="Chess" expanded="True">
+              <Node name="BasicMoves" expanded="True" />
+              <Node name="ChessTable.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Chess PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

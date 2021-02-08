@@ -1,0 +1,31 @@
+C:/Users/Claudio/Documents/C# Projects/Chess/Chess/bin/Debug/net5.0/Chess.exe
+C:/Users/Claudio/Documents/C# Projects/Chess/Chess/bin/Debug/net5.0/Chess.deps.json
+C:/Users/Claudio/Documents/C# Projects/Chess/Chess/bin/Debug/net5.0/Chess.runtimeconfig.json
+C:/Users/Claudio/Documents/C# Projects/Chess/Chess/bin/Debug/net5.0/Chess.runtimeconfig.dev.json
+C:/Users/Claudio/Documents/C# Projects/Chess/Chess/bin/Debug/net5.0/Chess.dll
+C:/Users/Claudio/Documents/C# Projects/Chess/Chess/bin/Debug/net5.0/ref/Chess.dll
+C:/Users/Claudio/Documents/C# Projects/Chess/Chess/bin/Debug/net5.0/Chess.pdb
+C:/Users/Claudio/Documents/C# Projects/Chess/Chess/obj/Debug/net5.0/Chess.csprojAssemblyReference.cache
+C:/Users/Claudio/Documents/C# Projects/Chess/Chess/obj/Debug/net5.0/Chess.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Claudio/Documents/C# Projects/Chess/Chess/obj/Debug/net5.0/Chess.AssemblyInfoInputs.cache
+C:/Users/Claudio/Documents/C# Projects/Chess/Chess/obj/Debug/net5.0/Chess.AssemblyInfo.cs
+C:/Users/Claudio/Documents/C# Projects/Chess/Chess/obj/Debug/net5.0/Chess.csproj.CoreCompileInputs.cache
+C:/Users/Claudio/Documents/C# Projects/Chess/Chess/obj/Debug/net5.0/Chess.dll
+C:/Users/Claudio/Documents/C# Projects/Chess/Chess/obj/Debug/net5.0/ref/Chess.dll
+C:/Users/Claudio/Documents/C# Projects/Chess/Chess/obj/Debug/net5.0/Chess.pdb
+C:/Users/Claudio/Documents/C# Projects/Chess/Chess/obj/Debug/net5.0/Chess.genruntimeconfig.cache
+/Users/claudio/Downloads/Chess/Chess/obj/Debug/net5.0/Chess.csprojAssemblyReference.cache
+/Users/claudio/Downloads/Chess/Chess/obj/Debug/net5.0/Chess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/claudio/Downloads/Chess/Chess/obj/Debug/net5.0/Chess.AssemblyInfoInputs.cache
+/Users/claudio/Downloads/Chess/Chess/obj/Debug/net5.0/Chess.AssemblyInfo.cs
+/Users/claudio/Downloads/Chess/Chess/obj/Debug/net5.0/Chess.csproj.CoreCompileInputs.cache
+/Users/claudio/Downloads/Chess/Chess/obj/Debug/net5.0/Chess.dll
+/Users/claudio/Downloads/Chess/Chess/obj/Debug/net5.0/ref/Chess.dll
+/Users/claudio/Downloads/Chess/Chess/obj/Debug/net5.0/Chess.pdb
+/Users/claudio/Downloads/Chess/Chess/bin/Debug/net5.0/Chess.deps.json
+/Users/claudio/Downloads/Chess/Chess/bin/Debug/net5.0/Chess.runtimeconfig.json
+/Users/claudio/Downloads/Chess/Chess/bin/Debug/net5.0/Chess.runtimeconfig.dev.json
+/Users/claudio/Downloads/Chess/Chess/bin/Debug/net5.0/Chess.dll
+/Users/claudio/Downloads/Chess/Chess/bin/Debug/net5.0/ref/Chess.dll
+/Users/claudio/Downloads/Chess/Chess/bin/Debug/net5.0/Chess.pdb
+/Users/claudio/Downloads/Chess/Chess/obj/Debug/net5.0/Chess.genruntimeconfig.cache
